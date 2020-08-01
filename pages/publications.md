@@ -1,3 +1,12 @@
+---
+layout: default
+title: Publications
+subtitle: Publications in Liu Lab
+permalink: /publication
+---
+
+
+
 
 
 - Chen S, Li X. [Targeting EGFRvIII for treatment of glioblastoma: Frommolecular mechanisms to clinical strategies]. Zhong Nan Da Xue Xue Bao Yi XueBan. 2019 Nov 28;44(11):1281-1286. doi: 10.11817/j.issn.1672-7347.2019.180643.Chinese. PubMed PMID: 31919324.
