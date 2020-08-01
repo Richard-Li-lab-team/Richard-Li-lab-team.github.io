@@ -32,7 +32,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/RICHARD_LI_LAB.png"
+# title-img: "/img/RICHARD_LI_LAB.PNG"
 
 
 # --- Footer options --- #
@@ -99,7 +99,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/img/RICHARD_LI_LAB.PNG"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
@@ -148,7 +148,7 @@ footer-link-col: "#404040"
 # See more details at https://staticman.net/
 staticman:
   repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : test_website # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance) 
   reCaptcha:
     siteKey  : # Use your own site key, you need to apply for one on Google
@@ -170,7 +170,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
