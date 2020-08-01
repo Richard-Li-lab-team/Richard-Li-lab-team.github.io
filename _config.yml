@@ -16,7 +16,7 @@ navbar-links:
   Software: "software"
   News & Events: "news"
   People: "people"
-  Publications: "publication"
+  Publications: "/publication"
   Teaching: "teaching"
   Careers: "careers"
   Contact: "contact"
