@@ -17,7 +17,7 @@ We focused on study on microsurgery and neural function protecting technology in
 
 ### Basic Study in glioma
 
-![]("https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/research/EGFL7.png?raw=true")
+### <img src="https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/research/EGFL7.png?raw=true" alt="EGFL7.png" style="zoom: 25%;" />
 
 We focused on the EGFL7's function in gliomagenesis
 
