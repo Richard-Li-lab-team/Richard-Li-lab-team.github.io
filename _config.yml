@@ -12,7 +12,7 @@ author: Xuejun Richard Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "/"
+  Home: "home"
   Software: "software"
   News & Events: "news"
   People: "people"
