@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Publications
-subtitle: Publications in Liu Lab
-permalink: /publication
+title: Teaching
+permalink: /teaching
 ---
 
 # Publications
