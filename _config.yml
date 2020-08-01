@@ -4,19 +4,22 @@
 title: Richard Li lab
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Xuejun Richard Li lab in Xiangya hospital, CSU
 
 # Your name to show in the footer
-author: Some Person
+author: Xuejun Richard Li
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "/"
+  Software: "software"
+  News & Events: "news"
+  People: "people"
+  Publications: "publication"
+  Teaching: "teaching"
+  Careers: "careers"
+  Contact: "contact"
 
 # --- Logo --- #
 
@@ -39,10 +42,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  github: https://github.com/Richard-Li-lab-team
+  google-scholar: your google scholar
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -64,15 +66,15 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+#share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "richard-li-lab-team"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -144,13 +146,13 @@ footer-link-col: "#404040"
 # If you want to use reCaptcha for staticman (optional for spam protection), then fill
 # in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
 # See more details at https://staticman.net/
-#staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance) 
-#  reCaptcha:
-#    siteKey  : # Use your own site key, you need to apply for one on Google
-#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+staticman:
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : test_website # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance) 
+  reCaptcha:
+    siteKey  : # Use your own site key, you need to apply for one on Google
+    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
