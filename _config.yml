@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/RICHARD_LI_LABpng"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,9 +41,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
+  email: "lxjneuro@csu.edu.cn"
   github: https://github.com/Richard-Li-lab-team
-  google-scholar: your google scholar
+#  google-scholar: your google scholar
 #  rss: true
 #  reddit: yourname
 #  linkedin: daattali
