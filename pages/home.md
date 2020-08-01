@@ -13,6 +13,8 @@ The main research directions are the clinical and basic research in neuro-oncolo
 
 ### Clinical Research
 
+### <img src="https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/research/clinical.jpg?raw=true" alt="clinical.jpg" style="zoom: 33%;" />
+
 We focused on study on microsurgery and neural function protecting technology in neuro-oncology
 
 ### Basic Study in glioma
@@ -23,8 +25,12 @@ We focused on the EGFL7's function in gliomagenesis
 
 ### Bioinformatics in neuro-oncology
 
+### <img src="https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/research/bioinfo.png?raw=true" alt="bioinfo.png" style="zoom: 67%;" />
+
 We use multi-omics data to screen candidate biomarkers in neuro-oncology
 
 ### Radiomics in neuro-oncology
+
+### ![radiomics.png](https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/research/radiomics.png?raw=true)
 
 We use mechine learning models to use the image data to help doctors to diagnosis
