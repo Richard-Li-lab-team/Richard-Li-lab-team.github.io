@@ -12,9 +12,9 @@ Ban. 2019 Nov 28;44(11):1281-1286. doi: 10.11817/j.issn.1672-7347.2019.180643.
 
 Chinese. PubMed PMID: 31919324.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
 
- 
+[[Full Paper]](/resources/publications/2019111281.pdf)  
 
 - Wang Y, Cheng T, Lu M, Mu Y, Li B, Li X, Zhan X. TMT-based quantitative
 
@@ -26,11 +26,11 @@ treatment of FSH-positive non-functional pituitary adenomas. EPMA J. 2019 Aug
 
 29;10(4):395-414. doi: 10.1007/s13167-019-00187-w. eCollection 2019 Dec. PubMed
 
-PMID: 31832114; PubMed Central PMCID: PMC6882982.
+PMID: 31832114; PubMed Central PMCID: PMC6882982. 
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31832114/)
 
- 
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)  
 
 - Dai S, Yan Y, Xu Z, Zeng S, Qian L, Huo L, Li X, Sun L, Gong Z. Corrigendum:
 
@@ -42,7 +42,9 @@ Akt/GSK3β/β-Catenin Signaling Axis. Front Pharmacol. 2019 Nov 15;10:1358. doi:
 
 PMCID: PMC6874015.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
 
  
 
@@ -56,7 +58,9 @@ Front Cell Dev Biol. 2019 Oct 2;7:217. doi: 10.3389/fcell.2019.00217. eCollectio
 
 \2019. PubMed PMID: 31632968; PubMed Central PMCID: PMC6783494.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
 
  
 
@@ -70,7 +74,9 @@ J Cancer. 2019 Aug 29;10(22):5536-5548. doi: 10.7150/jca.30614. eCollection 2019
 
 PubMed PMID: 31632497; PubMed Central PMCID: PMC6775685.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
 
  
 
@@ -82,7 +88,9 @@ Targeted Treatment: Drug Resistance and Novel Delivery Systems. Curr Med Chem.
 
 PMID: 31400262.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
 
  
 
@@ -98,9 +106,11 @@ Locally Advanced Rectal Cancer. Front Oncol. 2019 Jun 26;9:552. doi:
 
 PMCID: PMC6606732.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
 
- 
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
+
+  
 
 - Qian S, Zhan X, Lu M, Li N, Long Y, Li X, Desiderio DM, Zhan X. Quantitative
 
@@ -112,7 +122,9 @@ Tissues. Front Endocrinol (Lausanne). 2019 May 22;10:328. doi:
 
 PMCID: PMC6540463.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -130,7 +142,9 @@ measurement. Neuro Oncol. 2019 Nov 4;21(11):1412-1422. doi:
 
 10.1093/neuonc/noz106. PubMed PMID: 31190077; PubMed Central PMCID: PMC6827825.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -144,7 +158,9 @@ glioma through targeting WEE1. Cancer Manag Res. 2019 Apr 11;11:3099-3110. doi:
 
 PMCID: PMC6489667.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -156,7 +172,9 @@ Population Study. World Neurosurg. 2019 Aug;128:e823-e834. doi:
 
 10.1016/j.wneu.2019.04.262. Epub 2019 May 13. PubMed PMID: 31096027.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -170,7 +188,11 @@ Review. Front Endocrinol (Lausanne). 2019 Jan 24;10:7. doi:
 
 PMC6353782.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
+
+
 
  ## 2018
 
@@ -188,7 +210,9 @@ personalized medical approach in adrenal incidentalomas. EPMA J. 2018 Sep
 
 PMID: 30538793; PubMed Central PMCID: PMC6261906.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -204,7 +228,9 @@ Aggression. Neuron. 2018 Nov 21;100(4):799-815.e7. doi:
 
 10.1016/j.neuron.2018.09.046. Epub 2018 Oct 18. PubMed PMID: 30344046.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -218,7 +244,9 @@ Mar;35(3):221-228. doi: 10.1055/s-0038-1672129. Epub 2018 Oct 2. PubMed PMID:
 
 30278470.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -232,7 +260,9 @@ Feb;122:e108-e120. doi: 10.1016/j.wneu.2018.09.109. Epub 2018 Sep 24. PubMed
 
 PMID: 30261385.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -246,7 +276,9 @@ Dec;138:25-36. doi: 10.1016/j.phrs.2018.09.008. Epub 2018 Sep 18. PubMed PMID:
 
 30236524; PubMed Central PMCID: PMC6263743.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -260,7 +292,9 @@ Two-Dimensional Gel Electrophoresis and Mass Spectrometry. Front Endocrinol
 
 PubMed PMID: 30210449; PubMed Central PMCID: PMC6121189.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -272,7 +306,9 @@ World Neurosurg. 2018 Nov;119:e262-e271. doi: 10.1016/j.wneu.2018.07.127. Epub
 
 2018 Jul 25. PubMed PMID: 30053568.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -286,7 +322,9 @@ hemangioblastoma. Sci Rep. 2018 Jul 24;8(1):11144. doi:
 
 PMC6057968.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -298,7 +336,9 @@ An Integrated Analysis of 347 Patients. World Neurosurg. 2018 Oct;118:e375-e387.
 
 doi: 10.1016/j.wneu.2018.06.194. Epub 2018 Jun 30. PubMed PMID: 29969746.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -310,7 +350,9 @@ Jan;29(1):429-438. doi: 10.1007/s00330-018-5398-y. Epub 2018 Jun 12. PubMed PMID
 
 29948068.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -324,7 +366,9 @@ genes and chemosensitivity in 1p19q codeleted lower-grade gliomas. J Neurooncol.
 
 PMID: 29923053; PubMed Central PMCID: PMC6697086.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -340,7 +384,9 @@ with Gd. Contrast Media Mol Imaging. 2018 May 7;2018:9321862. doi:
 
 PMCID: PMC5964426.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -350,7 +396,11 @@ Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2018 Apr 28;43(4):345-353. doi:
 
 10.11817/j.issn.1672-7347.2018.04.003. PubMed PMID: 29774869.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
+
+
 
 ## 2017
 
@@ -366,7 +416,9 @@ radiological analysis. Dentomaxillofac Radiol. 2018 Jul;47(6):20170459. doi:
 
 PMCID: PMC6196049.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -378,7 +430,9 @@ receptor-T cells for cancer treatment. Mol Cancer. 2018 Feb 15;17(1):32. doi:
 
 PMC5815249.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -394,7 +448,9 @@ Apr;112:e812-e822. doi: 10.1016/j.wneu.2018.01.163. Epub 2018 Jan 31. PubMed
 
 PMID: 29409888.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -408,7 +464,9 @@ eCollection 2017. Erratum in: Front Pharmacol. 2019 Nov 15;10:1358. PubMed PMID:
 
 29354058; PubMed Central PMCID: PMC5758607.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -428,7 +486,9 @@ doi: 10.1158/1078-0432.CCR-17-2236. Epub 2017 Nov 22. PubMed PMID: 29167275;
 
 PubMed Central PMCID: PMC6051535.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -442,7 +502,9 @@ Treatment of Spinal Astrocytomas: A Multi-institutional Cohort Analysis. Spine
 
 PubMed PMID: 29135884.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -456,7 +518,9 @@ doi: 10.18632/oncotarget.17441. eCollection 2017 Sep 15. PubMed PMID: 28978179;
 
 PubMed Central PMCID: PMC5620319.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -468,7 +532,9 @@ the Clinic. Genomics Proteomics Bioinformatics. 2017 Aug;15(4):263-265. doi:
 
 PMCID: PMC5582798.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -482,7 +548,9 @@ proliferation and invasion in gliomas. Onco Targets Ther. 2017 Jul
 
 28794642; PubMed Central PMCID: PMC5538688.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -494,7 +562,9 @@ cells. Neurochem Int. 2018 Jan;112:179-186. doi: 10.1016/j.neuint.2017.07.006.
 
 Epub 2017 Jul 18. PubMed PMID: 28732772.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -506,7 +576,9 @@ and Radiologic Analysis of Eleven Cases. World Neurosurg. 2017 Aug;104:318-329.
 
 doi: 10.1016/j.wneu.2017.05.016. Epub 2017 May 13. PubMed PMID: 28512044.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -518,7 +590,11 @@ Elderly Patients: A Matched Cohort Study. World Neurosurg. 2017 May;101:457-465.
 
 doi: 10.1016/j.wneu.2017.01.120. Epub 2017 Feb 9. PubMed PMID: 28192265.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
+
+
 
 ## 2016
 
@@ -532,7 +608,9 @@ the early postoperation of craniopharyngioma]. Zhong Nan Da Xue Xue Bao Yi Xue
 
 Ban. 2016 Oct 28;41(10):1058-1063. Chinese. PubMed PMID: 27807328.
 
- 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf) 
 
  
 
@@ -544,3 +622,6 @@ Cancer Lett. 2017 Jan 1;384:9-18. doi: 10.1016/j.canlet.2016.10.009. Epub 2016
 
 Oct 8. PubMed PMID: 27725228.
 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31919324/)
+
+[[Full Paper]](/resources/publications/Li_GenProBio_2020.pdf)
