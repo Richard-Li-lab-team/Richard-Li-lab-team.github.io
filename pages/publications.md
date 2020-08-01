@@ -1,3 +1,10 @@
+---
+layout: default
+title: Publications
+subtitle: Publications in Li Lab
+permalink: /publication
+---
+
 # Publications
 
 
