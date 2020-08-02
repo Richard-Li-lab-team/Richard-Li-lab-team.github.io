@@ -13,7 +13,7 @@ author: Xuejun Richard Li
 
 navbar-links:
   Home: "home"
-  Software: "software"
+  #Software: "software"
   News & Events: "news"
   People: "people"
   Publications: "/publication"
