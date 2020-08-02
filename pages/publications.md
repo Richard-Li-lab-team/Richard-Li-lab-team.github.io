@@ -16,7 +16,7 @@ permalink: /publication
 
 - Zhang L, Giuste F, Vizcarra JC, **Li X**, Gutman D. Radiomics Features Predict CIC Mutation Status in Lower Grade Glioma. Front Oncol. 2020;10:937. Published 2020 Jun 26. doi:10.3389/fonc.2020.00937
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32676453/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32676453/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fonc.2020.00937/full)
 
   
 
@@ -27,43 +27,44 @@ permalink: /publication
   
 
 - Li C, Zou H, Xiong Z, Xiong Y, Miyagishima DF, Wanggou S, **Li X#**. Construction and Validation of a 13-Gene Signature for Prognosis Prediction in Medulloblastoma. Front Genet. 2020;11:429. Published 2020 May 19. doi:10.3389/fgene.2020.00429
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32508873/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32508873/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fgene.2020.00429/full)
 
   
 
 - Zou H, Li C, Wanggou S, **Li X#**. Survival Risk Prediction Models of Gliomas Based on IDH and 1p/19q. J Cancer. 2020;11(15):4297-4307. Published 2020 Apr 27. doi:10.7150/jca.43805
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32489448/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32489448/)     [[Full Paper]](https://www.jcancer.org/v11p4297.htm)
 
   
 
 - Xiong Z, Yang Q, **Li X#**. Effect of intra- and inter-tumoral heterogeneity on molecular characteristics of primary IDH-wild type glioblastoma revealed by single-cell analysis [published online ahead of print, 2020 Jun 2]. CNS Neurosci Ther. 2020;10.1111/cns.13396. doi:10.1111/cns.13396
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32488994/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32488994/)     [[Full Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13396)
 
   
 
 - Yang Q, Xiong Y, Jiang N, Zeng F, Huang C, **Li X#**. Integrating Genomic Data with Transcriptomic Data for Improved Survival Prediction for Adult Diffuse Glioma. J Cancer. 2020;11(13):3794-3802. Published 2020 Apr 6. doi:10.7150/jca.44032
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328184/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328184/)     [[Full Paper]](https://www.jcancer.org/v11p3794.htm)
 
   
 
 - Liu H, Yang Q, Xiong Y, Xiong Z, **Li X#**. Improved Prognostic Prediction of Glioblastoma using a PAS Detected from Single-cell RNA-seq. J Cancer. 2020;11(13):3751-3761. Published 2020 Apr 6. doi:10.7150/jca.44034
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328180/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328180/)     [[Full Paper]](https://www.jcancer.org/v11p3751.htm)
 
   
 
 - Zhao Z, Yuan X, Yuan J, Cai L, Jiang W, Xie Y, Wanggou S, Zhang C, Tang G, Li H, Peng Z, **Li X**, Liu Q.. Treatment Strategy for Petroclival Meningiomas Based on a Proposed Classification in a Study of 168 Cases. Sci Rep. 2020;10(1):4655. Published 2020 Mar 13. doi:10.1038/s41598-020-61497-y
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32170139/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32170139/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7069996/)
 
   
 
 - Francisco MA, Wanggou S, Fan JJ, Dong W, Chen X, Momin A, Abeysundara N, Min HK, Chan J, McAdam R, Sia M, Pusong RJ, Liu S, Patel N, Ramaswamy V, Kijima N, Wang LY, Song Y, Kafri R, Taylor MD, **Li X#**, Huang X#. Chloride intracellular channel 1 cooperates with potassium channel EAG2 to promote medulloblastoma growth. J Exp Med. 2020;217(5):e20190971. doi:10.1084/jem.20190971
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32097463/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32097463/)     [[Full Paper]](https://rupress.org/jem/article/217/5/e20190971/133839/Chloride-intracellular-channel-1-cooperates-with)
 
   
 
@@ -75,7 +76,7 @@ permalink: /publication
 
 - Xiong Y, Xiong Z, Cao H, Li C, Wanggou S,**Li X#**. Multi-dimensional omics characterization in glioblastoma identifies the purity-associated pattern and prognostic gene signatures. Cancer Cell Int. 2020;20:37. Published 2020 Jan 31. doi:10.1186/s12935-020-1116-3
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32021566/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32021566/)     [[Full Paper]](https://cancerci.biomedcentral.com/articles/10.1186/s12935-020-1116-3)
 
   
 
