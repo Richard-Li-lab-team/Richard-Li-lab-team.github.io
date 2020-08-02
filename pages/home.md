@@ -5,11 +5,13 @@ permalink: /home
 ---
 ## About Me
 
+## <img src="https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/people/Xuejun_Li.jpg?raw=true" alt="Xuejun_Li.jpg" style="zoom:25%;" />
+
 Xuejun Li (Richard Li), Professor, Department of Neurosurgery, Xiangya Hospital, from Liuyang, Hunan. His research interests focused on the basic and clinical research on neurosurgical diseases, such as brain tumors (glioma and pituitary adenoma) and vascular diseases (cavernous malformation and arteriovenous malformation), with a special focus on the pathogenic mechanism, prevention, treatment, and the damage induced by brain diseases including its repair.
 
 ## Research interests
 
-The main research directions are the clinical and basic research in neuro-oncology, development of intelligent diagnosis system in central nervous system tumor, epigenetics of glioma, etc.
+The main research directions are the **clinical and basic research in neuro-oncology, development of intelligent diagnosis system in central nervous system tumor, epigenetics of glioma**, etc.
 
 ### Clinical Research
 
