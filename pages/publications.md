@@ -90,19 +90,19 @@ permalink: /publication
 
 
 
-- Wang Y, Cheng T, Lu M, Mu Y, Li B, **Li X**, Zhan X. TMT-based quantitativeproteomics revealed follicle-stimulating hormone (FSH)-related molecularcharacterizations for potentially prognostic assessment and personalizedtreatment of FSH-positive non-functional pituitary adenomas. EPMA J. 2019 Aug29;10(4):395-414. doi: 10.1007/s13167-019-00187-w. eCollection 2019 Dec. PubMed PMID: 31832114; PubMed Central PMCID: PMC6882982.
+- Wang Y, Cheng T, Lu M, Mu Y, Li B, **Li X**, Zhan X. TMT-based quantitative proteomics revealed follicle-stimulating hormone (FSH)-related molecularcharacterizations for potentially prognostic assessment and personalized treatment of FSH-positive non-functional pituitary adenomas. EPMA J. 2019 Aug29;10(4):395-414. doi: 10.1007/s13167-019-00187-w. eCollection 2019 Dec. PubMed PMID: 31832114; PubMed Central PMCID: PMC6882982.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31832114/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6882982/)
 
   
 
-- Dai S, Yan Y, Xu Z, Zeng S, Qian L, Huo L, **Li X**, Sun L, Gong Z. Corrigendum:SCD1 Confers Temozolomide Resistance to Human Glioma Cells Via theAkt/GSK3β/β-Catenin Signaling Axis. Front Pharmacol. 2019 Nov 15;10:1358. doi:10.3389/fphar.2019.01358. eCollection 2019. PubMed PMID: 31798454; PubMed CentralPMCID: PMC6874015.
+- Dai S, Yan Y, Xu Z, Zeng S, Qian L, Huo L, **Li X**, Sun L, Gong Z. Corrigendum:SCD1 Confers Temozolomide Resistance to Human Glioma Cells Via the Akt/GSK3β/β-Catenin Signaling Axis. Front Pharmacol. 2019 Nov 15;10:1358. doi:10.3389/fphar.2019.01358. eCollection 2019. PubMed PMID: 31798454; PubMed CentralPMCID: PMC6874015.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31798454/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fphar.2019.01358/full)
 
  
 
-- Yan Y, Xu Z, Chen X, Wang X, Zeng S, Zhao Z, Qian L, Li Z, Wei J, Huo L, **Li X**,Gong Z, Sun L. Novel Function of lncRNA ADAMTS9-AS2 in Promoting TemozolomideResistance in Glioblastoma via Upregulating the FUS/MDM2 Ubiquitination Axis.Front Cell Dev Biol. 2019 Oct 2;7:217. doi: 10.3389/fcell.2019.00217. eCollection2019. PubMed PMID: 31632968; PubMed Central PMCID: PMC6783494.
+- Yan Y, Xu Z, Chen X, Wang X, Zeng S, Zhao Z, Qian L, Li Z, Wei J, Huo L, **Li X**,Gong Z, Sun L. Novel Function of lncRNA ADAMTS9-AS2 in Promoting Temozolomide Resistance in Glioblastoma via Upregulating the FUS/MDM2 Ubiquitination Axis.Front Cell Dev Biol. 2019 Oct 2;7:217. doi: 10.3389/fcell.2019.00217. eCollection2019. PubMed PMID: 31632968; PubMed Central PMCID: PMC6783494.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31632968/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fcell.2019.00217/full)
 
@@ -114,7 +114,7 @@ permalink: /publication
 
  
 
-- Cao H, **Li X**, Wang F, Zhang Y, Xiong Y, Yang Q. Phytochemical-Mediated GliomaTargeted Treatment: Drug Resistance and Novel Delivery Systems. Curr Med Chem.2019 Aug 9. doi: 10.2174/0929867326666190809221332. [Epub ahead of print] PubMed PMID: 31400262.
+- Cao H, **Li X**, Wang F, Zhang Y, Xiong Y, Yang Q. Phytochemical-Mediated Glioma Targeted Treatment: Drug Resistance and Novel Delivery Systems. Curr Med Chem.2019 Aug 9. doi: 10.2174/0929867326666190809221332. [Epub ahead of print] PubMed PMID: 31400262.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31400262/)
 
@@ -126,7 +126,7 @@ permalink: /publication
 
  
 
-- Qian S, Zhan X, Lu M, Li N, Long Y, **Li X**, Desiderio DM, Zhan X. QuantitativeAnalysis of Ubiquitinated Proteins in Human Pituitary and Pituitary AdenomaTissues. Front Endocrinol (Lausanne). 2019 May 22;10:328. doi:10.3389/fendo.2019.00328. eCollection 2019. PubMed PMID: 31191455; PubMed CentralPMCID: PMC6540463.
+- Qian S, Zhan X, Lu M, Li N, Long Y, **Li X**, Desiderio DM, Zhan X. Quantitative Analysis of Ubiquitinated Proteins in Human Pituitary and Pituitary Adenoma Tissues. Front Endocrinol (Lausanne). 2019 May 22;10:328. doi:10.3389/fendo.2019.00328. eCollection 2019. PubMed PMID: 31191455; PubMed CentralPMCID: PMC6540463.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31191455/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fendo.2019.00328/full)
 
@@ -144,13 +144,13 @@ permalink: /publication
 
  
 
-- Xiong Y, Cao H, Zhang Y, Pan Z, Dong S, Wang G, Wang F, **Li X#**.Nomogram-Predicted Survival of Breast Cancer Brain Metastasis: a SEER-BasedPopulation Study. World Neurosurg. 2019 Aug;128:e823-e834. doi:10.1016/j.wneu.2019.04.262. Epub 2019 May 13. PubMed PMID: 31096027.
+- Xiong Y, Cao H, Zhang Y, Pan Z, Dong S, Wang G, Wang F, **Li X#**.Nomogram-Predicted Survival of Breast Cancer Brain Metastasis: a SEER-Based Population Study. World Neurosurg. 2019 Aug;128:e823-e834. doi:10.1016/j.wneu.2019.04.262. Epub 2019 May 13. PubMed PMID: 31096027.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31096027/)
 
  
 
-- Yang Q, **Li X#**. Molecular Network Basis of Invasive Pituitary Adenoma: AReview. Front Endocrinol (Lausanne). 2019 Jan 24;10:7. doi:10.3389/fendo.2019.00007. eCollection 2019. Review. Erratum in: Front Endocrinol (Lausanne). 2019 Sep 24;10:657. PubMed PMID: 30733705; PubMed Central PMCID:PMC6353782.
+- Yang Q, **Li X#**. Molecular Network Basis of Invasive Pituitary Adenoma: A Review. Front Endocrinol (Lausanne). 2019 Jan 24;10:7. doi:10.3389/fendo.2019.00007. eCollection 2019. Review. Erratum in: Front Endocrinol (Lausanne). 2019 Sep 24;10:657. PubMed PMID: 30733705; PubMed Central PMCID:PMC6353782.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30733705/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fendo.2019.00007/full)
 
@@ -166,7 +166,7 @@ permalink: /publication
 
  
 
-- Chen X, Wanggou S, Bodalia A, Zhu M, Dong W, Fan JJ, Yin WC, Min HK, Hu M,Draghici D, Dou W, Li F, Coutinho FJ, Whetstone H, Kushida MM, Dirks PB, Song Y, Hui CC, Sun Y, Wang LY, **Li X#**, Huang X. A Feedforward Mechanism Mediated byMechanosensitive Ion Channel PIEZO1 and Tissue Mechanics Promotes GliomaAggression. Neuron. 2018 Nov 21;100(4):799-815.e7. doi:10.1016/j.neuron.2018.09.046. Epub 2018 Oct 18. PubMed PMID: 30344046.
+- Chen X, Wanggou S, Bodalia A, Zhu M, Dong W, Fan JJ, Yin WC, Min HK, Hu M,Draghici D, Dou W, Li F, Coutinho FJ, Whetstone H, Kushida MM, Dirks PB, Song Y, Hui CC, Sun Y, Wang LY, **Li X#**, Huang X. A Feedforward Mechanism Mediated by Mechanosensitive Ion Channel PIEZO1 and Tissue Mechanics Promotes Glioma Aggression. Neuron. 2018 Nov 21;100(4):799-815.e7. doi:10.1016/j.neuron.2018.09.046. Epub 2018 Oct 18. PubMed PMID: 30344046.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30344046/)     [[Full Paper]](https://www.cell.com/neuron/fulltext/S0896-6273(18)30848-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318308481%3Fshowall%3Dtrue)
 
@@ -190,7 +190,7 @@ permalink: /publication
 
  
 
-- Qian S, Yang Y, Li N, Cheng T, Wang X, Liu J, **Li X**, Desiderio DM, Zhan X.Prolactin Variants in Human Pituitaries and Pituitary Adenomas Identified WithTwo-Dimensional Gel Electrophoresis and Mass Spectrometry. Front Endocrinol(Lausanne). 2018 Aug 28;9:468. doi: 10.3389/fendo.2018.00468. eCollection 2018.PubMed PMID: 30210449; PubMed Central PMCID: PMC6121189.
+- Qian S, Yang Y, Li N, Cheng T, Wang X, Liu J, **Li X**, Desiderio DM, Zhan X.Prolactin Variants in Human Pituitaries and Pituitary Adenomas Identified With Two-Dimensional Gel Electrophoresis and Mass Spectrometry. Front Endocrinol(Lausanne). 2018 Aug 28;9:468. doi: 10.3389/fendo.2018.00468. eCollection 2018.PubMed PMID: 30210449; PubMed Central PMCID: PMC6121189.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30210449/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fendo.2018.00468/full)
 
@@ -202,7 +202,7 @@ permalink: /publication
 
  
 
-- Huang Y, Chan L, Bai HX, **Li X**, Zhang Z, Wang Y, Cao Y, Karakousis G, Huang R,Xiao B, Zhang PJ, Yang L. Assessment of care pattern and outcome inhemangioblastoma. Sci Rep. 2018 Jul 24;8(1):11144. doi:10.1038/s41598-018-29047-9. PubMed PMID: 30042517; PubMed Central PMCID:PMC6057968.
+- Huang Y, Chan L, Bai HX, **Li X**, Zhang Z, Wang Y, Cao Y, Karakousis G, Huang R,Xiao B, Zhang PJ, Yang L. Assessment of care pattern and outcome in hemangioblastoma. Sci Rep. 2018 Jul 24;8(1):11144. doi:10.1038/s41598-018-29047-9. PubMed PMID: 30042517; PubMed Central PMCID:PMC6057968.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30042517/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30042517/)
 
@@ -223,6 +223,8 @@ permalink: /publication
 - Wang FY, **Li XJ#**. Angiogenesis in glioma. Glioma 2018;1:43-9
 
   [[Abstract]](http://www.jglioma.com/article.asp?issn=2589-6113;year=2018;volume=1;issue=2;spage=43;epage=49;aulast=Wang)     [[Full Paper]](http://www.jglioma.com/downloadpdf.asp?issn=2589-6113;year=2018;volume=1;issue=2;spage=43;epage=49;aulast=Wang;type=2) 
+
+  
 
 - Tang L, Deng L, Bai HX, Sun J, Neale N, Wu J, Wang Y, Chang K, Huang RY,Zhang PJ, **Li X**, Xiao B, Cao Y, Tao Y, Yang L. Reduced expression of DNA repairgenes and chemosensitivity in 1p19q codeleted lower-grade gliomas. J Neurooncol. 2018 Sep;139(3):563-571. doi: 10.1007/s11060-018-2915-4. Epub 2018 Jun 19. PubMedPMID: 29923053; PubMed Central PMCID: PMC6697086.
 
@@ -252,7 +254,7 @@ permalink: /publication
 
  
 
-- Ye B, Stary CM, **Li X**, Gao Q, Kang C, Xiong X. Engineering chimeric antigenreceptor-T cells for cancer treatment. Mol Cancer. 2018 Feb 15;17(1):32. doi:10.1186/s12943-018-0814-0. Review. PubMed PMID: 29448937; PubMed Central PMCID:PMC5815249.
+- Ye B, Stary CM, **Li X**, Gao Q, Kang C, Xiong X. Engineering chimeric antigen receptor-T cells for cancer treatment. Mol Cancer. 2018 Feb 15;17(1):32. doi:10.1186/s12943-018-0814-0. Review. PubMed PMID: 29448937; PubMed Central PMCID:PMC5815249.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29448937/)     [[Full Paper]](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-018-0814-0)
 
@@ -312,13 +314,13 @@ permalink: /publication
 
  
 
-- Jiang N, Wang Z, Chen W, Xie Y, Peng Z, Yuan J, Wanggou S, Su Y, **Li X**, YuanX. Microsurgical Outcomes After Gross Total Resection on Vestibular Schwannoma inElderly Patients: A Matched Cohort Study. World Neurosurg. 2017 May;101:457-465. doi: 10.1016/j.wneu.2017.01.120. Epub 2017 Feb 9. PubMed PMID: 28192265.
+- Jiang N, Wang Z, Chen W, Xie Y, Peng Z, Yuan J, Wanggou S, Su Y, **Li X**, YuanX. Microsurgical Outcomes After Gross Total Resection on Vestibular Schwannoma in Elderly Patients: A Matched Cohort Study. World Neurosurg. 2017 May;101:457-465. doi: 10.1016/j.wneu.2017.01.120. Epub 2017 Feb 9. PubMed PMID: 28192265.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28192265/)
   
   
 
-- Wang FY, Kang CS, Wang-Gou SY, Huang CH, Feng CY, **Li XJ#**. EGFL7 is anintercellular EGFR signal messenger that plays an oncogenic role in glioma.Cancer Lett. 2017 Jan 1;384:9-18. doi: 10.1016/j.canlet.2016.10.009. Epub 2016Oct 8. PubMed PMID: 27725228.
+- Wang FY, Kang CS, Wang-Gou SY, Huang CH, Feng CY, **Li XJ#**. EGFL7 is an intercellular EGFR signal messenger that plays an oncogenic role in glioma.Cancer Lett. 2017 Jan 1;384:9-18. doi: 10.1016/j.canlet.2016.10.009. Epub 2016Oct 8. PubMed PMID: 27725228.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27725228/) 
 
@@ -334,7 +336,7 @@ permalink: /publication
 
 
 
-- Peng F, Li J, Guo T, Yang H, Li M, Sang S, Li X, Desiderio DM, Zhan X. Nitroproteins in Human Astrocytomas Discovered by Gel Electrophoresis and Tandem Mass Spectrometry. J Am Soc Mass Spectrom. 2015 Dec;26(12):2062-76. doi: 10.1007/s13361-015-1270-3. Epub 2015 Oct 8. PMID: 26450359.
+- Peng F, **Li J**, Guo T, Yang H, Li M, Sang S, Li X, Desiderio DM, Zhan X. Nitroproteins in Human Astrocytomas Discovered by Gel Electrophoresis and Tandem Mass Spectrometry. J Am Soc Mass Spectrom. 2015 Dec;26(12):2062-76. doi: 10.1007/s13361-015-1270-3. Epub 2015 Oct 8. PMID: 26450359.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26450359/)
 
