@@ -218,7 +218,11 @@ permalink: /publication
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29948068/)
 
- 
+
+
+- Wang FY, **Li XJ#**. Angiogenesis in glioma. Glioma 2018;1:43-9
+
+  [[Abstract]](http://www.jglioma.com/article.asp?issn=2589-6113;year=2018;volume=1;issue=2;spage=43;epage=49;aulast=Wang)     [[Full Paper]](http://www.jglioma.com/downloadpdf.asp?issn=2589-6113;year=2018;volume=1;issue=2;spage=43;epage=49;aulast=Wang;type=2) 
 
 - Tang L, Deng L, Bai HX, Sun J, Neale N, Wu J, Wang Y, Chang K, Huang RY,Zhang PJ, **Li X**, Xiao B, Cao Y, Tao Y, Yang L. Reduced expression of DNA repairgenes and chemosensitivity in 1p19q codeleted lower-grade gliomas. J Neurooncol. 2018 Sep;139(3):563-571. doi: 10.1007/s11060-018-2915-4. Epub 2018 Jun 19. PubMedPMID: 29923053; PubMed Central PMCID: PMC6697086.
 
@@ -328,6 +332,50 @@ permalink: /publication
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27807328/)     [[Full Paper]](http://xbyxb.csu.edu.cn/xbwk/fileup/PDF/2016101058.pdf)
 
- 
 
-- HUANG Jun, YUAN Xianrui, JIANG Weixi, LUO Duanwu, LIU Feng Department of Neurosurgery, Xiangya Hospital of the Central South University, Changsha 410008, China;[A comparative histological and morphological study of nerve regeneration in peripheral nerve graft and nerve conduit repair of the oculomotor nerve in cats][J];Chinese Journal of Neurosurgical Disease Research;2005-02
+
+- Peng F, Li J, Guo T, Yang H, Li M, Sang S, Li X, Desiderio DM, Zhan X. Nitroproteins in Human Astrocytomas Discovered by Gel Electrophoresis and Tandem Mass Spectrometry. J Am Soc Mass Spectrom. 2015 Dec;26(12):2062-76. doi: 10.1007/s13361-015-1270-3. Epub 2015 Oct 8. PMID: 26450359.
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26450359/)
+
+  
+
+- Zhan X, Desiderio DM, Wang X, Zhan X, Guo T, Li M, Peng F, Chen X, Yang H, Zhang P, **Li X**, Chen Z. Identification of the proteomic variations of invasive relative to non-invasive non-functional pituitary adenomas. Electrophoresis. 2014 Aug;35(15):2184-94. doi: 10.1002/elps.201300590. PMID: 24729304.
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/24729304/)
+
+  
+
+- Wu M, Liu DY, Yuan XR, Liu Q, Jiang XJ, Yuan D, Huang J, **Li XJ**, Yang ZQ. The expression of moesin in astrocytoma: correlation with pathologic grade and poor clinical outcome. Med Oncol. 2013 Mar;30(1):372. doi: 10.1007/s12032-012-0372-z. Epub 2013 Jan 13. PMID: 23315217.
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/23315217/)
+
+  
+
+- Huang CH, **Li XJ**, Zhou YZ, Luo Y, Li C, Yuan XR. Expression and clinical significance of EGFL7 in malignant glioma. J Cancer Res Clin Oncol. 2010;136(11):1737-1743. doi:10.1007/s00432-010-0832-9
+
+  [[Abstract]](http://www.ncbi.nlm.nih.gov/pubmed/20213100)
+
+
+
+- Chun-Hai, H. , **Xue-Jun LI** , & Yi-Zeng, Z. . (2009). Expression of egfl7 in human glioma and its correlation with microvessel density of tumour. Chinese Journal of Otorhinolaryngology-Skull Base Surgery.
+
+  [[Abstract]](http://en.cnki.com.cn/Article_en/CJFDTotal-ZEBY200905007.htm)
+
+  
+
+- **Xue-Jun, LI** , Xian-Rui, Y. , & Wei-Xi, J. . (2008). Microdissection of the extended transsphenoidal approach. Chinese Journal of Clinical Anatomy.
+
+  [[Abstract]](http://en.cnki.com.cn/Article_en/CJFDTOTAL-ZLJZ200803001.htm)
+
+  
+
+- **Xue-Jun, LI** , Xian-Rui, Y. , & Shan-Zhi, G. U. . (2008). Imaging anatomy of the extended transsphenoidal approach. Journal of Clinical Research.
+
+- [[Abstract]](http://en.cnki.com.cn/Article_en/CJFDTotal-HNYZ200807004.htm)
+
+  
+
+- Jun H , Xian-Rui Y , **Xue-Jun LI#** . Surgical approach and histoanatomical features of the oculomotor nerve in cats[J]. Journal of International Neurology and Neurosurgery, 2008.
+
+  [[Abstract]](http://en.cnki.com.cn/Article_en/CJFDTOTAL-GWSK200803003.htm)
