@@ -128,7 +128,7 @@ permalink: /publication
 
 - Qian S, Zhan X, Lu M, Li N, Long Y, **Li X**, Desiderio DM, Zhan X. QuantitativeAnalysis of Ubiquitinated Proteins in Human Pituitary and Pituitary AdenomaTissues. Front Endocrinol (Lausanne). 2019 May 22;10:328. doi:10.3389/fendo.2019.00328. eCollection 2019. PubMed PMID: 31191455; PubMed CentralPMCID: PMC6540463.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31191455/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31191455/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fendo.2019.00328/full)
 
  
 
