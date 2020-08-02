@@ -8,7 +8,7 @@ permalink: /careers
 
 ## Educational Experience
 
-- Bachelor's degree (1990–1995 M.D, Hunan Medical University)
+- Bachelor's degree (1990–1995 M.B.B.S., Hunan Medical University)
 - Doctoral degree (1998–2003 Master's and Ph.D. Program in Neurosurgery,Central South University )
 
 ## Work Experience
