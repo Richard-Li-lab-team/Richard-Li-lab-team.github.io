@@ -280,19 +280,19 @@ permalink: /publication
 
 - Wu J, Zou T, Bai HX, **Li X**, Zhang Z, Xiao B, Nasrallah M, Karakousis G, Cao Y,Zhang PJ, Yang L. Comparison of chemoradiotherapy with radiotherapy alone for"biopsy only" anaplastic astrocytoma. Oncotarget. 2017 Apr 26;8(40):69038-69046. doi: 10.18632/oncotarget.17441. eCollection 2017 Sep 15. PubMed PMID: 28978179;PubMed Central PMCID: PMC5620319.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28978179/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28978179/)     [[Full Paper]](https://www.oncotarget.com/article/17441/text/)
 
  
 
 - Cao H, Wang F, **Li X**J. Future Strategies on Glioma Research: From Big Data to the Clinic. Genomics Proteomics Bioinformatics. 2017 Aug;15(4):263-265. doi:10.1016/j.gpb.2017.07.001. Epub 2017 Aug 7. PubMed PMID: 28797870; PubMed CentralPMCID: PMC5582798.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28797870/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28797870/)     [[Full Paper]](https://www.sciencedirect.com/science/article/pii/S1672022917301079?via%3Dihub/)
 
  
 
 - Wu M, Wanggou S, **Li X**, Liu Q, Xie Y. Overexpression of mitochondrial serinehydroxyl-methyltransferase 2 is associated with poor prognosis and promotes cell proliferation and invasion in gliomas. Onco Targets Ther. 2017 Jul27;10:3781-3788. doi: 10.2147/OTT.S130409. eCollection 2017. PubMed PMID:28794642; PubMed Central PMCID: PMC5538688.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28794642/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28794642/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28794642/)
 
  
 
@@ -320,7 +320,7 @@ permalink: /publication
 
 - Xiong T, Wanggou S, **Li X**, Liu Q, Jiang X, Peng Z, Yuan X. [Influence ofpreventive use of vasopressin tannate on diabetes insipidus and serum sodium atthe early postoperation of craniopharyngioma]. Zhong Nan Da Xue Xue Bao Yi XueBan. 2016 Oct 28;41(10):1058-1063. Chinese. PubMed PMID: 27807328.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27807328/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27807328/)     [[Full Paper]](http://xbyxb.csu.edu.cn/xbwk/fileup/PDF/2016101058.pdf)
 
  
 
