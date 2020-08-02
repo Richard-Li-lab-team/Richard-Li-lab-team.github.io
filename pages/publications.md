@@ -134,13 +134,13 @@ permalink: /publication
 
 - Chang K, Beers AL, Bai HX, Brown JM, Ly KI, **Li X**, Senders JT, Kavouridis VK,Boaro A, Su C, Bi WL, Rapalino O, Liao W, Shen Q, Zhou H, Xiao B, Wang Y, ZhangPJ, Pinho MC, Wen PY, Batchelor TT, Boxerman JL, Arnaout O, Rosen BR, GerstnerER, Yang L, Huang RY, Kalpathy-Cramer J. Automatic assessment of glioma burden: adeep learning algorithm for fully automated volumetric and bidimensionalmeasurement. Neuro Oncol. 2019 Nov 4;21(11):1412-1422. doi:10.1093/neuonc/noz106. PubMed PMID: 31190077; PubMed Central PMCID: PMC6827825.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31190077/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31190077/)     [[Full Paper]](https://academic.oup.com/neuro-oncology/article/21/11/1412/5514498)
 
  
 
 - Wu M, **Li X**, Liu Q, Xie Y, Yuan J, Wanggou S. miR-526b-3p serves as aprognostic factor and regulates the proliferation, invasion, and migration ofglioma through targeting WEE1. Cancer Manag Res. 2019 Apr 11;11:3099-3110. doi:10.2147/CMAR.S192361. eCollection 2019. PubMed PMID: 31114353; PubMed CentralPMCID: PMC6489667.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31114353/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31114353/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6489667/)
 
  
 
@@ -152,7 +152,7 @@ permalink: /publication
 
 - Yang Q, **Li X#**. Molecular Network Basis of Invasive Pituitary Adenoma: AReview. Front Endocrinol (Lausanne). 2019 Jan 24;10:7. doi:10.3389/fendo.2019.00007. eCollection 2019. Review. Erratum in: Front Endocrinol (Lausanne). 2019 Sep 24;10:657. PubMed PMID: 30733705; PubMed Central PMCID:PMC6353782.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30733705/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30733705/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fendo.2019.00007/full)
 
  
 
@@ -162,13 +162,13 @@ permalink: /publication
 
 - Yi X, Guan X, Zhang Y, Liu L, Long X, Yin H, Wang Z, **Li X**, Liao W, Chen BT,Zee C. Radiomics improves efficiency for differentiating subclinicalpheochromocytoma from lipid-poor adenoma: a predictive, preventive andpersonalized medical approach in adrenal incidentalomas. EPMA J. 2018 Sep21;9(4):421-429. doi: 10.1007/s13167-018-0149-3. eCollection 2018 Dec. PubMedPMID: 30538793; PubMed Central PMCID: PMC6261906.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30538793/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30538793/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6261906/)
 
  
 
-- Chen X, Wanggou S, Bodalia A, Zhu M, Dong W, Fan JJ, Yin WC, Min HK, Hu M,Draghici D, Dou W, Li F, Coutinho FJ, Whetstone H, Kushida MM, Dirks PB, Song Y, Hui CC, Sun Y, Wang LY, **Li X**, Huang X. A Feedforward Mechanism Mediated byMechanosensitive Ion Channel PIEZO1 and Tissue Mechanics Promotes GliomaAggression. Neuron. 2018 Nov 21;100(4):799-815.e7. doi:10.1016/j.neuron.2018.09.046. Epub 2018 Oct 18. PubMed PMID: 30344046.
+- Chen X, Wanggou S, Bodalia A, Zhu M, Dong W, Fan JJ, Yin WC, Min HK, Hu M,Draghici D, Dou W, Li F, Coutinho FJ, Whetstone H, Kushida MM, Dirks PB, Song Y, Hui CC, Sun Y, Wang LY, **Li X#**, Huang X. A Feedforward Mechanism Mediated byMechanosensitive Ion Channel PIEZO1 and Tissue Mechanics Promotes GliomaAggression. Neuron. 2018 Nov 21;100(4):799-815.e7. doi:10.1016/j.neuron.2018.09.046. Epub 2018 Oct 18. PubMed PMID: 30344046.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30344046/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30344046/)     [[Full Paper]](https://www.cell.com/neuron/fulltext/S0896-6273(18)30848-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318308481%3Fshowall%3Dtrue)
 
  
 
@@ -180,37 +180,37 @@ permalink: /publication
 
 - Wu J, Kim C, Bai HX, Tang L, Wang Y, **Li X**, Zhang Z, Karakousis G, Huang R,Zhang PJ, Xiao B, Yang L. Comparison of Radiation Therapy Alone and Chemotherapy Alone for Low-Grade Gliomas without Surgical Resection. World Neurosurg. 2019Feb;122:e108-e120. doi: 10.1016/j.wneu.2018.09.109. Epub 2018 Sep 24. PubMedPMID: 30261385.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30261385/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30261385/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1878875018321557?via%3Dihub)
 
  
 
 - Xiao Y, Karam C, Yi J, Zhang L, **Li X**, Yoon D, Wang H, Dhakal K, Ramlow P, Yu T, Mo Z, Ma J, Zhou J. ROS-related mitochondrial dysfunction in skeletal muscleof an ALS mouse model during the disease progression. Pharmacol Res. 2018Dec;138:25-36. doi: 10.1016/j.phrs.2018.09.008. Epub 2018 Sep 18. PubMed PMID:30236524; PubMed Central PMCID: PMC6263743.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30236524/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30236524/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1043661818302536?via%3Dihub)
 
  
 
 - Qian S, Yang Y, Li N, Cheng T, Wang X, Liu J, **Li X**, Desiderio DM, Zhan X.Prolactin Variants in Human Pituitaries and Pituitary Adenomas Identified WithTwo-Dimensional Gel Electrophoresis and Mass Spectrometry. Front Endocrinol(Lausanne). 2018 Aug 28;9:468. doi: 10.3389/fendo.2018.00468. eCollection 2018.PubMed PMID: 30210449; PubMed Central PMCID: PMC6121189.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30210449/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30210449/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fendo.2018.00468/full)
 
  
 
 - Sang S, Wanggou S, Wang Z, Lin X, Jiang N, Ye N, **Li X#**. Clinical Long-TermFollow-Up Evaluation of Functional Neuronavigation in Adult Cerebral Gliomas.World Neurosurg. 2018 Nov;119:e262-e271. doi: 10.1016/j.wneu.2018.07.127. Epub2018 Jul 25. PubMed PMID: 30053568.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30053568/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30053568/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S187887501831605X?via%3Dihub)
 
  
 
 - Huang Y, Chan L, Bai HX, **Li X**, Zhang Z, Wang Y, Cao Y, Karakousis G, Huang R,Xiao B, Zhang PJ, Yang L. Assessment of care pattern and outcome inhemangioblastoma. Sci Rep. 2018 Jul 24;8(1):11144. doi:10.1038/s41598-018-29047-9. PubMed PMID: 30042517; PubMed Central PMCID:PMC6057968.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30042517/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30042517/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30042517/)
 
  
 
 - Zou Y, Neale N, Sun J, Yang M, Bai HX, Tang L, Zhang Z, Landi A, Wang Y,Huang RY, Zhang PJ, **Li X**, Xiao B, Yang L. Prognostic Factors in Clival Chordomas:An Integrated Analysis of 347 Patients. World Neurosurg. 2018 Oct;118:e375-e387. doi: 10.1016/j.wneu.2018.06.194. Epub 2018 Jun 30. PubMed PMID: 29969746.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29969746/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29969746/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1878875018314104?via%3Dihub)
 
  
 
@@ -222,19 +222,19 @@ permalink: /publication
 
 - Tang L, Deng L, Bai HX, Sun J, Neale N, Wu J, Wang Y, Chang K, Huang RY,Zhang PJ, **Li X**, Xiao B, Cao Y, Tao Y, Yang L. Reduced expression of DNA repairgenes and chemosensitivity in 1p19q codeleted lower-grade gliomas. J Neurooncol. 2018 Sep;139(3):563-571. doi: 10.1007/s11060-018-2915-4. Epub 2018 Jun 19. PubMedPMID: 29923053; PubMed Central PMCID: PMC6697086.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29923053/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29923053/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697086/)
 
  
 
 - Ma X, Jin Y, Wang Y, Zhang S, Peng D, Yang X, Wei S, Chai W, **Li X**, Tian J.Multimodality Molecular Imaging-Guided Tumor Border Delineation and Photothermal Therapy Analysis Based on Graphene Oxide-Conjugated Gold Nanoparticles Chelatedwith Gd. Contrast Media Mol Imaging. 2018 May 7;2018:9321862. doi:10.1155/2018/9321862. eCollection 2018. PubMed PMID: 29853812; PubMed CentralPMCID: PMC5964426.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29853812/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29853812/)     [[Full Paper]](https://www.hindawi.com/journals/cmmi/2018/9321862/)
 
  
 
 - **Li X**, Cao H, Liu Y. Genetic epidemiology and risk factors for brain tumors.Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2018 Apr 28;43(4):345-353. doi:10.11817/j.issn.1672-7347.2018.04.003. PubMed PMID: 29774869.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29774869/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29774869/)     [[Full Paper]](http://xbyxb.csu.edu.cn/xbwk/fileup/PDF/201804345.pdf)
 
 
 
