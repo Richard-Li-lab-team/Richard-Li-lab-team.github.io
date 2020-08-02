@@ -92,37 +92,37 @@ permalink: /publication
 
 - Wang Y, Cheng T, Lu M, Mu Y, Li B, **Li X**, Zhan X. TMT-based quantitativeproteomics revealed follicle-stimulating hormone (FSH)-related molecularcharacterizations for potentially prognostic assessment and personalizedtreatment of FSH-positive non-functional pituitary adenomas. EPMA J. 2019 Aug29;10(4):395-414. doi: 10.1007/s13167-019-00187-w. eCollection 2019 Dec. PubMed PMID: 31832114; PubMed Central PMCID: PMC6882982.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31832114/)     [[Full Paper]](http://xbyxb.csu.edu.cn/xbwk/fileup/PDF/2019111281.pdf)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31832114/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6882982/)
 
   
 
 - Dai S, Yan Y, Xu Z, Zeng S, Qian L, Huo L, **Li X**, Sun L, Gong Z. Corrigendum:SCD1 Confers Temozolomide Resistance to Human Glioma Cells Via theAkt/GSK3β/β-Catenin Signaling Axis. Front Pharmacol. 2019 Nov 15;10:1358. doi:10.3389/fphar.2019.01358. eCollection 2019. PubMed PMID: 31798454; PubMed CentralPMCID: PMC6874015.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31798454/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6882982/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31798454/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fphar.2019.01358/full)
 
  
 
 - Yan Y, Xu Z, Chen X, Wang X, Zeng S, Zhao Z, Qian L, Li Z, Wei J, Huo L, **Li X**,Gong Z, Sun L. Novel Function of lncRNA ADAMTS9-AS2 in Promoting TemozolomideResistance in Glioblastoma via Upregulating the FUS/MDM2 Ubiquitination Axis.Front Cell Dev Biol. 2019 Oct 2;7:217. doi: 10.3389/fcell.2019.00217. eCollection2019. PubMed PMID: 31632968; PubMed Central PMCID: PMC6783494.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31632968/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fphar.2019.01358/full)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31632968/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fcell.2019.00217/full)
 
  
 
 - Ye N, Jiang N, Feng C, Wang F, Zhang H, Bai HX, Yang L, Su Y, Huang C, WanggouS, **Li X#**. Combined Therapy Sensitivity Index Based on a 13-Gene Signature PredictsPrognosis for IDH Wild-type and MGMT Promoter Unmethylated Glioblastoma Patients.J Cancer. 2019 Aug 29;10(22):5536-5548. doi: 10.7150/jca.30614. eCollection 2019.PubMed PMID: 31632497; PubMed Central PMCID: PMC6775685.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31632497/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fcell.2019.00217/full)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31632497/)     [[Full Paper]](http://www.jcancer.org/v10p5536.htm)
 
  
 
 - Cao H, **Li X**, Wang F, Zhang Y, Xiong Y, Yang Q. Phytochemical-Mediated GliomaTargeted Treatment: Drug Resistance and Novel Delivery Systems. Curr Med Chem.2019 Aug 9. doi: 10.2174/0929867326666190809221332. [Epub ahead of print] PubMed PMID: 31400262.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31400262/)     [[Full Paper]](https://www.jcancer.org/v10p5536.htm)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31400262/)
 
  
 
 - Yi X, Pei Q, Zhang Y, Zhu H, Wang Z, Chen C, Li Q, Long X, Tan F, Zhou Z, Liu W, Li C, Zhou Y, Song X, Li Y, Liao W, **Li X**, Sun L, Pei H, Zee C, Chen BT.MRI-Based Radiomics Predicts Tumor Response to Neoadjuvant Chemoradiotherapy inLocally Advanced Rectal Cancer. Front Oncol. 2019 Jun 26;9:552. doi:10.3389/fonc.2019.00552. eCollection 2019. PubMed PMID: 31293979; PubMed Central PMCID: PMC6606732.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31293979/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31293979/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fonc.2019.00552/full)
 
  
 
