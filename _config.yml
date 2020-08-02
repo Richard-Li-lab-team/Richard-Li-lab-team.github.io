@@ -41,7 +41,7 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "lxjneuro@csu.edu.cn"
-  github: https://github.com/Richard-Li-lab-team
+  github: Richard-Li-lab-team
 #  google-scholar: your google scholar
 #  rss: true
 #  reddit: yourname

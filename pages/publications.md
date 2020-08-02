@@ -180,7 +180,7 @@ permalink: /publication
 
 - Wu J, Kim C, Bai HX, Tang L, Wang Y, **Li X**, Zhang Z, Karakousis G, Huang R,Zhang PJ, Xiao B, Yang L. Comparison of Radiation Therapy Alone and Chemotherapy Alone for Low-Grade Gliomas without Surgical Resection. World Neurosurg. 2019Feb;122:e108-e120. doi: 10.1016/j.wneu.2018.09.109. Epub 2018 Sep 24. PubMedPMID: 30261385.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30261385/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1878875018321557?via%3Dihub)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30261385/)
 
  
 
@@ -198,7 +198,7 @@ permalink: /publication
 
 - Sang S, Wanggou S, Wang Z, Lin X, Jiang N, Ye N, **Li X#**. Clinical Long-TermFollow-Up Evaluation of Functional Neuronavigation in Adult Cerebral Gliomas.World Neurosurg. 2018 Nov;119:e262-e271. doi: 10.1016/j.wneu.2018.07.127. Epub2018 Jul 25. PubMed PMID: 30053568.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30053568/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S187887501831605X?via%3Dihub)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30053568/)
 
  
 
@@ -210,7 +210,7 @@ permalink: /publication
 
 - Zou Y, Neale N, Sun J, Yang M, Bai HX, Tang L, Zhang Z, Landi A, Wang Y,Huang RY, Zhang PJ, **Li X**, Xiao B, Yang L. Prognostic Factors in Clival Chordomas:An Integrated Analysis of 347 Patients. World Neurosurg. 2018 Oct;118:e375-e387. doi: 10.1016/j.wneu.2018.06.194. Epub 2018 Jun 30. PubMed PMID: 29969746.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29969746/)     [[Full Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1878875018314104?via%3Dihub)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29969746/)
 
  
 
@@ -244,13 +244,13 @@ permalink: /publication
 
 - Zeng J, Liu H, Liu L, Liao W, Hu P, Wang X, **Li X**, Sun L, Zhang Y, Yi X.Fibrosarcoma arising in the paranasal sinus: a clinicopathological andradiological analysis. Dentomaxillofac Radiol. 2018 Jul;47(6):20170459. doi:10.1259/dmfr.20170459. Epub 2018 Apr 23. PubMed PMID: 29658783; PubMed CentralPMCID: PMC6196049.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29658783/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29658783/)     [[Full Paper]](https://www.birpublications.org/doi/10.1259/dmfr.20170459?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
 
  
 
 - Ye B, Stary CM, **Li X**, Gao Q, Kang C, Xiong X. Engineering chimeric antigenreceptor-T cells for cancer treatment. Mol Cancer. 2018 Feb 15;17(1):32. doi:10.1186/s12943-018-0814-0. Review. PubMed PMID: 29448937; PubMed Central PMCID:PMC5815249.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29448937/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29448937/)     [[Full Paper]](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-018-0814-0)
 
  
 
@@ -262,13 +262,13 @@ permalink: /publication
 
 - Dai S, Yan Y, Xu Z, Zeng S, Qian L, Huo L, **Li X**, Sun L, Gong Z. SCD1 Confers Temozolomide Resistance to Human Glioma Cells via the Akt/GSK3β/β-CateninSignaling Axis. Front Pharmacol. 2018 Jan 4;8:960. doi: 10.3389/fphar.2017.00960.eCollection 2017. Erratum in: Front Pharmacol. 2019 Nov 15;10:1358. PubMed PMID: 29354058; PubMed Central PMCID: PMC5758607.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29354058/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29354058/)     [[Full Paper]](https://www.frontiersin.org/articles/10.3389/fphar.2017.00960/full)
 
  
 
 - Chang K, Bai HX, Zhou H, Su C, Bi WL, Agbodza E, Kavouridis VK, Senders JT,Boaro A, Beers A, Zhang B, Capellini A, Liao W, Shen Q, **Li X**, Xiao B, Cryan J,Ramkissoon S, Ramkissoon L, Ligon K, Wen PY, Bindra RS, Woo J, Arnaout O,Gerstner ER, Zhang PJ, Rosen BR, Yang L, Huang RY, Kalpathy-Cramer J. ResidualConvolutional Neural Network for the Determination of IDH Status in Low- andHigh-Grade Gliomas from MR Imaging. Clin Cancer Res. 2018 Mar 1;24(5):1073-1081. doi: 10.1158/1078-0432.CCR-17-2236. Epub 2017 Nov 22. PubMed PMID: 29167275;PubMed Central PMCID: PMC6051535.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29167275/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29167275/)     [[Full Paper]](https://clincancerres.aacrjournals.org/content/24/5/1073.long)
 
  
 
@@ -280,19 +280,19 @@ permalink: /publication
 
 - Wu J, Zou T, Bai HX, **Li X**, Zhang Z, Xiao B, Nasrallah M, Karakousis G, Cao Y,Zhang PJ, Yang L. Comparison of chemoradiotherapy with radiotherapy alone for"biopsy only" anaplastic astrocytoma. Oncotarget. 2017 Apr 26;8(40):69038-69046. doi: 10.18632/oncotarget.17441. eCollection 2017 Sep 15. PubMed PMID: 28978179;PubMed Central PMCID: PMC5620319.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28978179/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28978179/)     [[Full Paper]](https://www.oncotarget.com/article/17441/text/)
 
  
 
 - Cao H, Wang F, **Li X**J. Future Strategies on Glioma Research: From Big Data to the Clinic. Genomics Proteomics Bioinformatics. 2017 Aug;15(4):263-265. doi:10.1016/j.gpb.2017.07.001. Epub 2017 Aug 7. PubMed PMID: 28797870; PubMed CentralPMCID: PMC5582798.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28797870/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28797870/)     [[Full Paper]](https://www.sciencedirect.com/science/article/pii/S1672022917301079?via%3Dihub/)
 
  
 
 - Wu M, Wanggou S, **Li X**, Liu Q, Xie Y. Overexpression of mitochondrial serinehydroxyl-methyltransferase 2 is associated with poor prognosis and promotes cell proliferation and invasion in gliomas. Onco Targets Ther. 2017 Jul27;10:3781-3788. doi: 10.2147/OTT.S130409. eCollection 2017. PubMed PMID:28794642; PubMed Central PMCID: PMC5538688.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28794642/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28794642/)     [[Full Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28794642/)
 
  
 
@@ -320,7 +320,7 @@ permalink: /publication
 
 - Xiong T, Wanggou S, **Li X**, Liu Q, Jiang X, Peng Z, Yuan X. [Influence ofpreventive use of vasopressin tannate on diabetes insipidus and serum sodium atthe early postoperation of craniopharyngioma]. Zhong Nan Da Xue Xue Bao Yi XueBan. 2016 Oct 28;41(10):1058-1063. Chinese. PubMed PMID: 27807328.
 
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27807328/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27807328/)     [[Full Paper]](http://xbyxb.csu.edu.cn/xbwk/fileup/PDF/2016101058.pdf)
 
  
 
