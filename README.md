@@ -12,6 +12,7 @@ Department of Neurosurgery, Xiangya Hospital, Central South University (CSU), Ch
 
 ## ![qrcode.png](https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/qrcode.png?raw=true)
 
+Currently it's only compatible with iOS
 
 ## Files
 
