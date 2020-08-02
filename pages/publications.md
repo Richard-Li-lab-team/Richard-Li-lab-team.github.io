@@ -9,39 +9,75 @@ permalink: /publication
 
 ## 2020
 - Xia Q, Zhang H, Zhang P, Li Y, Xu M, **Li X**, Li X, Dong L. Oncogenic Smurf1 promotes PTEN wild-type glioblastoma growth by mediating PTEN ubiquitylation [published online ahead of print, 2020 Jul 31]. Oncogene. 2020;10.1038/s41388-020-01400-1. doi:10.1038/s41388-020-01400-1 
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32737433/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32737433/)
+
+  
 
 - Zhang L, Giuste F, Vizcarra JC, **Li X**, Gutman D. Radiomics Features Predict CIC Mutation Status in Lower Grade Glioma. Front Oncol. 2020;10:937. Published 2020 Jun 26. doi:10.3389/fonc.2020.00937
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32676453/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32676453/)
+
+  
 
 - Hui M, Nian J, Wang Z, **Li X**, Huang C. KDELR2 is an unfavorable prognostic biomarker and regulates CCND1 to promote tumor progression in glioma. Pathol Res Pract. 2020;216(7):152996. doi:10.1016/j.prp.2020.152996
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32534703/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32534703/)
+
+  
 
 - Li C, Zou H, Xiong Z, Xiong Y, Miyagishima DF, Wanggou S, **Li X#**. Construction and Validation of a 13-Gene Signature for Prognosis Prediction in Medulloblastoma. Front Genet. 2020;11:429. Published 2020 May 19. doi:10.3389/fgene.2020.00429
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32508873/)
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32508873/)
+
+  
 
 - Zou H, Li C, Wanggou S, **Li X#**. Survival Risk Prediction Models of Gliomas Based on IDH and 1p/19q. J Cancer. 2020;11(15):4297-4307. Published 2020 Apr 27. doi:10.7150/jca.43805
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32489448/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32489448/)
+
+  
 
 - Xiong Z, Yang Q, **Li X#**. Effect of intra- and inter-tumoral heterogeneity on molecular characteristics of primary IDH-wild type glioblastoma revealed by single-cell analysis [published online ahead of print, 2020 Jun 2]. CNS Neurosci Ther. 2020;10.1111/cns.13396. doi:10.1111/cns.13396
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32488994/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32488994/)
+
+  
 
 - Yang Q, Xiong Y, Jiang N, Zeng F, Huang C, **Li X#**. Integrating Genomic Data with Transcriptomic Data for Improved Survival Prediction for Adult Diffuse Glioma. J Cancer. 2020;11(13):3794-3802. Published 2020 Apr 6. doi:10.7150/jca.44032
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328184/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328184/)
+
+  
 
 - Liu H, Yang Q, Xiong Y, Xiong Z, **Li X#**. Improved Prognostic Prediction of Glioblastoma using a PAS Detected from Single-cell RNA-seq. J Cancer. 2020;11(13):3751-3761. Published 2020 Apr 6. doi:10.7150/jca.44034
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328180/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32328180/)
+
+  
 
 - Zhao Z, Yuan X, Yuan J, Cai L, Jiang W, Xie Y, Wanggou S, Zhang C, Tang G, Li H, Peng Z, **Li X**, Liu Q.. Treatment Strategy for Petroclival Meningiomas Based on a Proposed Classification in a Study of 168 Cases. Sci Rep. 2020;10(1):4655. Published 2020 Mar 13. doi:10.1038/s41598-020-61497-y
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32170139/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32170139/)
+
+  
 
 - Francisco MA, Wanggou S, Fan JJ, Dong W, Chen X, Momin A, Abeysundara N, Min HK, Chan J, McAdam R, Sia M, Pusong RJ, Liu S, Patel N, Ramaswamy V, Kijima N, Wang LY, Song Y, Kafri R, Taylor MD, **Li X#**, Huang X#. Chloride intracellular channel 1 cooperates with potassium channel EAG2 to promote medulloblastoma growth. J Exp Med. 2020;217(5):e20190971. doi:10.1084/jem.20190971
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32097463/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32097463/)
+
+  
 
 - Cao H, Erson-Omay EZ, **Li X**, Günel M, Moliterno J, Fulbright RK. A quantitative model based on clinically relevant MRI features differentiates lower grade gliomas and glioblastoma [published correction appears in Eur Radiol. 2020 Mar 9;:]. Eur Radiol. 2020;30(6):3073-3082. doi:10.1007/s00330-019-06632-8
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32025832/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32025832/)
+
+  
+
 - Xiong Y, Xiong Z, Cao H, Li C, Wanggou S,**Li X#**. Multi-dimensional omics characterization in glioblastoma identifies the purity-associated pattern and prognostic gene signatures. Cancer Cell Int. 2020;20:37. Published 2020 Jan 31. doi:10.1186/s12935-020-1116-3
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32021566/)
+
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32021566/)
+
+  
 
 ## 2019
 
