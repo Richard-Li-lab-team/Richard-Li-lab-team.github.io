@@ -311,10 +311,16 @@ permalink: /publication
 - Jiang N, Wang Z, Chen W, Xie Y, Peng Z, Yuan J, Wanggou S, Su Y, **Li X**, YuanX. Microsurgical Outcomes After Gross Total Resection on Vestibular Schwannoma inElderly Patients: A Matched Cohort Study. World Neurosurg. 2017 May;101:457-465. doi: 10.1016/j.wneu.2017.01.120. Epub 2017 Feb 9. PubMed PMID: 28192265.
 
   [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28192265/)
+  
+  
 
- 
+- Wang FY, Kang CS, Wang-Gou SY, Huang CH, Feng CY, **Li XJ#**. EGFL7 is anintercellular EGFR signal messenger that plays an oncogenic role in glioma.Cancer Lett. 2017 Jan 1;384:9-18. doi: 10.1016/j.canlet.2016.10.009. Epub 2016Oct 8. PubMed PMID: 27725228.
 
-## 2016
+  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27725228/) 
+
+  
+
+## Before 2017
 
 
 
@@ -324,6 +330,4 @@ permalink: /publication
 
  
 
-- Wang FY, Kang CS, Wang-Gou SY, Huang CH, Feng CY, **Li XJ#**. EGFL7 is anintercellular EGFR signal messenger that plays an oncogenic role in glioma.Cancer Lett. 2017 Jan 1;384:9-18. doi: 10.1016/j.canlet.2016.10.009. Epub 2016Oct 8. PubMed PMID: 27725228.
-
-  [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27725228/)
+- HUANG Jun, YUAN Xianrui, JIANG Weixi, LUO Duanwu, LIU Feng Department of Neurosurgery, Xiangya Hospital of the Central South University, Changsha 410008, China;[A comparative histological and morphological study of nerve regeneration in peripheral nerve graft and nerve conduit repair of the oculomotor nerve in cats][J];Chinese Journal of Neurosurgical Disease Research;2005-02
