@@ -213,3 +213,6 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+#Google Analytics
+google_analytics: UA-174650188-1  # your google analytics
