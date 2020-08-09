@@ -1,97 +1,98 @@
----
-layout: default
-title: Richard Li(Xuejun Li) lab
-subtitle: department of neurosurgery in Xiangya hospital, CSU
----
+--- layout: default title: Richard Li(Xuejun Li) lab subtitle: department of neurosurgery in Xiangya hospital, CSU ---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Welcome Page</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to Richard Li's Lab</h1>
+        <img src="/img/RICHARD_LI_LAB.jpg" />
+    </div>
+
+
 
     <div class="container">
-      <h1>Welcome to Richard Li's Lab</h1>
         <div class="row">
-            <div class="col-lg-3">
-                <p>
-                    <img src="/img/RICHARD_LI_LAB.PNG">
-                </p>
-            </div>
-            <div class="col-lg-9">
-                <p>
-                </p>
-            </div>
+            <h2>Research interests</h2>
+            <p>The main research directions are the clinical and basic research in neuro-oncology, development of intelligent diagnosis system in central nervous system tumor, epigenetics of glioma, etc.
+            </p>
         </div>
     </div>
+</body>
+
+</html>
 
 
 
-<div class="container">
-    <div class="row">
-        <h2>Research interests</h2>
-        <p>
-          The main research directions are the clinical and basic research in neuro-oncology, development of intelligent diagnosis system in central nervous system tumor, epigenetics of glioma, etc. 
-        </p>
-    </div>
-</div>
+
 
 <!--<div class="posts-list">-->
-  <!--{% for post in paginator.posts %}-->
-  <!--<article class="post-preview">-->
-    <!--<a href="{{ post.url | relative_url }}">-->
-	  <!--<h2 class="post-title">{{ post.title }}</h2>-->
+<!--{% for post in paginator.posts %}-->
+<!--<article class="post-preview">-->
+<!--<a href="{{ post.url | relative_url }}">-->
+<!--<h2 class="post-title">{{ post.title }}</h2>-->
 
-	  <!--{% if post.subtitle %}-->
-	  <!--<h3 class="post-subtitle">-->
-	    <!--{{ post.subtitle }}-->
-	  <!--</h3>-->
-	  <!--{% endif %}-->
-    <!--</a>-->
+<!--{% if post.subtitle %}-->
+<!--<h3 class="post-subtitle">-->
+<!--{{ post.subtitle }}-->
+<!--</h3>-->
+<!--{% endif %}-->
+<!--</a>-->
 
-    <!--<p class="post-meta">-->
-      <!--Posted on {{ post.date | date: site.date_format }}-->
-    <!--</p>-->
+<!--<p class="post-meta">-->
+<!--Posted on {{ post.date | date: site.date_format }}-->
+<!--</p>-->
 
-    <!--<div class="post-entry-container">-->
-      <!--{% if post.image %}-->
-      <!--<div class="post-image">-->
-        <!--<a href="{{ post.url | relative_url }}">-->
-          <!--<img src="{{ post.image | relative_url }}">-->
-        <!--</a>-->
-      <!--</div>-->
-      <!--{% endif %}-->
-      <!--<div class="post-entry">-->
-        <!--{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}-->
-        <!--{% assign excerpt_word_count = post.excerpt | number_of_words %}-->
-        <!--{% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}-->
-          <!--<a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>-->
-        <!--{% endif %}-->
-      <!--</div>-->
-    <!--</div>-->
+<!--<div class="post-entry-container">-->
+<!--{% if post.image %}-->
+<!--<div class="post-image">-->
+<!--<a href="{{ post.url | relative_url }}">-->
+<!--<img src="{{ post.image | relative_url }}">-->
+<!--</a>-->
+<!--</div>-->
+<!--{% endif %}-->
+<!--<div class="post-entry">-->
+<!--{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}-->
+<!--{% assign excerpt_word_count = post.excerpt | number_of_words %}-->
+<!--{% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}-->
+<!--<a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>-->
+<!--{% endif %}-->
+<!--</div>-->
+<!--</div>-->
 
-    <!--{% if post.tags.size > 0 %}-->
-    <!--<div class="blog-tags">-->
-      <!--Tags:-->
-      <!--{% if site.link-tags %}-->
-      <!--{% for tag in post.tags %}-->
-      <!--<a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>-->
-      <!--{% endfor %}-->
-      <!--{% else %}-->
-        <!--{{ post.tags | join: ", " }}-->
-      <!--{% endif %}-->
-    <!--</div>-->
-    <!--{% endif %}-->
+<!--{% if post.tags.size > 0 %}-->
+<!--<div class="blog-tags">-->
+<!--Tags:-->
+<!--{% if site.link-tags %}-->
+<!--{% for tag in post.tags %}-->
+<!--<a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>-->
+<!--{% endfor %}-->
+<!--{% else %}-->
+<!--{{ post.tags | join: ", " }}-->
+<!--{% endif %}-->
+<!--</div>-->
+<!--{% endif %}-->
 
-   <!--</article>-->
-  <!--{% endfor %}-->
+<!--</article>-->
+<!--{% endfor %}-->
 <!--</div>-->
 
 <!--{% if paginator.total_pages > 1 %}-->
 <!--<ul class="pager main-pager">-->
-  <!--{% if paginator.previous_page %}-->
-  <!--<li class="previous">-->
-    <!--<a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>-->
-  <!--</li>-->
-  <!--{% endif %}-->
-  <!--{% if paginator.next_page %}-->
-  <!--<li class="next">-->
-    <!--<a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>-->
-  <!--</li>-->
-  <!--{% endif %}-->
+<!--{% if paginator.previous_page %}-->
+<!--<li class="previous">-->
+<!--<a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>-->
+<!--</li>-->
+<!--{% endif %}-->
+<!--{% if paginator.next_page %}-->
+<!--<li class="next">-->
+<!--<a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>-->
+<!--</li>-->
+<!--{% endif %}-->
 <!--</ul>-->
 <!--{% endif %}-->
