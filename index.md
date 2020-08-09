@@ -11,7 +11,8 @@ subtitle: department of neurosurgery in Xiangya hospital, CSU
     <div class="row">
         <div class="col-lg-3">
             <p>
-                <img src="https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/RICHARD_LI_LAB.PNG?raw=true" width="400" height="400" />
+                <img src="https://github.com/Richard-Li-lab-team/Richard-Li-lab-team.github.io/blob/master/img/RICHARD_LI_LAB.PNG?raw=true"
+                     />
             </p>
         </div>
         <div class="col-lg-9">
@@ -20,6 +21,7 @@ subtitle: department of neurosurgery in Xiangya hospital, CSU
         </div>
     </div>
 </div>
+
 
 
 
