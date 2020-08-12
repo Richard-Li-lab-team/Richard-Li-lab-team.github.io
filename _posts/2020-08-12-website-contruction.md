@@ -4,7 +4,7 @@ layout: post
 
 title: 网站构建指南
 
-subtitle: 通过**beautiful-jekyll**工具来完成整个架构
+subtitle: 通过beautiful-jekyll工具来完成整个架构
 
 gh-repo: /Richard-Li-lab-team/Richard-Li-lab-team.github.io
 
