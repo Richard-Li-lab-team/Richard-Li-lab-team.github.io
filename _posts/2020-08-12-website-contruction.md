@@ -32,19 +32,21 @@ comments: true
 
 该页面为根目录下index.html文件（注意不是index1.html），若要进行修改，应使用html与CSS语法。
 
-然后该页面下为post，用来展示新的文章。此处可使用markdown文件，放置在post文件夹中，注意命名统一，在编写过程中，应注意在最开始添加如下语句，如：
+然后该页面下为post，用来展示新的文章。此处可使用markdown文件，放置在post文件夹中，注意命名统一，在编写过程中，应注意在最开始添加如下语句，并在顶端和底部添加“---”，如：
 
-```
----
-layout: post
-title: 网站构建指南
-subtitle: 通过**beautiful-jekyll**工具来完成整个架构
-gh-repo: /Richard-Li-lab-team/Richard-Li-lab-team.github.io
-gh-badge: [star, fork, follow]
-tags: [website]
-comments: true
----
-```
+> layout: post
+>
+> title: 网站构建指南
+>
+> subtitle: 通过beautiful-jekyll工具来完成整个架构
+>
+> gh-repo: /Richard-Li-lab-team/Richard-Li-lab-team.github.io
+>
+> gh-badge: [star, fork, follow]
+>
+> tags: [website]
+>
+> comments: true
 
 - Home界面
 
