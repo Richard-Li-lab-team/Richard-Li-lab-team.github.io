@@ -76,3 +76,4 @@ comments: true
 
 可通过根目录下_config.yml进行修改，具体方法可参见[beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)的Github主页。建议尽量不改动。
 
+作者： 张益浩
