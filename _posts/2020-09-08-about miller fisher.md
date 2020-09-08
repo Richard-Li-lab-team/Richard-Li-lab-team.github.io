@@ -2,7 +2,7 @@
 layout: post
 title: Fisher's rules: learning from the master himself
 subtitle: 
-gh-repo: daattali/beautiful-jekyll
+gh-repo: /Richard-Li-lab-team/Richard-Li-lab-team.github.io
 gh-badge: [star, fork, follow]
 tags: [clinical]
 comments: true
