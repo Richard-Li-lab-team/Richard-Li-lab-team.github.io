@@ -1,14 +1,20 @@
 ---
+
 layout: post
+
 title: Fisher's rules: learning from the master himself
-subtitle: 
+
+subtitle: Fisher's rules
+
 gh-repo: /Richard-Li-lab-team/Richard-Li-lab-team.github.io
+
 gh-badge: [star, fork, follow]
+
 tags: [clinical]
+
 comments: true
+
 ---
-
-
 
 ## Fisher's rules: learning from the master himself
 
